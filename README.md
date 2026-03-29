@@ -18,6 +18,3 @@ Conducted comprehensive financial, industry, and macroeconomic analysis of Ceylo
 - `CBH_DCF_Model.xlsx` → Complete Excel financial model (FCFF, WACC, sensitivity, forecasts)
 - Screenshots and charts
 
-**View the full report:** [Ceylon Beverage Holdings Report.pdf](Ceylon%20Beverage%20Holdings%20report.pdf)
-
-**Excel Model:** [Download DCF Model](CBH_DCF_Model.xlsx)
