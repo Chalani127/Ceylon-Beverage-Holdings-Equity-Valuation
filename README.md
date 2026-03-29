@@ -2,19 +2,19 @@
 
 **Academic Project | Investment & Portfolio Management | University of Moratuwa**
 
-Conducted comprehensive financial, industry, and macroeconomic analysis of Ceylon Beverage Holdings PLC (COSE:BREW.N0000) from FY2018–FY2024 with forecasts to FY2030.
+Conducted comprehensive financial, industry, macroeconomic, and competitive analysis of Ceylon Beverage Holdings PLC (COSE:BREW.N0000) from FY2019–FY2025 with detailed forecasts to FY2030.
 
 **Key Deliverables:**
-- Built complete DCF model using FCFF
-- Calculated WACC (14.37%) using CAPM (β = 0.5)
-- Determined intrinsic value = **LKR 2,180.33**
-- Issued **HOLD** recommendation (–15.91% downside at market price LKR 2,593)
-- Performed competitor analysis, ESG review, risk & opportunity assessment, and key ratio analysis (P/E, ROE)
+- Built a complete DCF valuation model using FCFF projections
+- Calculated WACC of **15.76%** (CAPM with industry β = 0.61 from Damodaran)
+- Determined intrinsic value = **LKR 3,689.29**
+- Issued **BUY** recommendation with **40.5% upside** (Current price LKR 2,625.75 as at 18 Sep 2025)
+- Performed detailed revenue segmentation (domestic vs export), cash flow trend analysis, key ratio analysis, ESG review, and risk/opportunity assessment
 
-**Tools:** Microsoft Excel (Advanced Financial Modelling & DCF), Ratio Analysis, Industry & Economic Research
+**Tools:** Microsoft Excel (Advanced Financial Modelling, DCF, FCFF, Sensitivity Analysis), Ratio Analysis, Industry & Economic Research
 
 ### Repository Contents
-- `Ceylon Beverage Holdings report.pdf` → Full 21-page research report
-- `CBH_DCF_Model.xlsx` → Complete Excel financial model (FCFF, WACC, sensitivity, forecasts)
-- Screenshots and charts
+- `Ceylon Beverage Holdings report.pdf` → Full 14-page equity research report
+- `CBH_DCF_Model.xlsx` → Complete Excel financial model (FCFF, WACC, forecasts, CapEx, NWC, sensitivity tables)
+- Supporting charts and appendices
 
