@@ -1,6 +1,6 @@
 # Ceylon Beverage Holdings PLC – Financial Modelling & Equity Valuation
 
-**Academic Project | Investment & Portfolio Management (DA3441) | University of Moratuwa**
+**Academic Project | Investment & Portfolio Management | University of Moratuwa**
 
 Conducted comprehensive financial, industry, and macroeconomic analysis of Ceylon Beverage Holdings PLC (COSE:BREW.N0000) from FY2018–FY2024 with forecasts to FY2030.
 
